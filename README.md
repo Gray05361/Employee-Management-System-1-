@@ -198,7 +198,7 @@ Get it from here: **[AdminKit](https://adminkit.io/)**
 - Contributions: Multirole Authentication with Persmission, User Management, Attendance System Database Design & Management..
 
 ##### Surorsi Das
-- GitHub:
+- GitHub:[Surorsi](https://github.com/Surorsi)
 - Contributions: Staff Management, Leave Management, Payroll system.
 
 
