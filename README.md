@@ -193,17 +193,15 @@ Get it from here: **[AdminKit](https://adminkit.io/)**
 
 ## Contributors
 
-##### Mohona Akter
-- GitHub: [MOHONA678](https://github.com/MOHONA678/)
-- Contributions: Multirole Authentication with Persmission, User Management, Attendance System.
+##### Sourish Mutafi
+- GitHub: [Gray05361](https://github.com/Gray05361)
+- Contributions: Multirole Authentication with Persmission, User Management, Attendance System Database Design & Management..
 
-##### Mst.Shorifa Akter
-- GitHub: [Shorifa1234](https://github.com/Shorifa1234)
+##### Surorsi Das
+- GitHub:
 - Contributions: Staff Management, Leave Management, Payroll system.
 
-##### Muhammad Nasir Uddin Khan Shawon
-- GitHub: [shawonk007](https://github.com/shawonk007)
-- Contributions: Database Design & Management.
+
 
 
 ## Want to Contribute?
